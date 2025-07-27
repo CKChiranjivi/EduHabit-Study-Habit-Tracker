@@ -5,7 +5,7 @@ EduHabit is a simple, lightweight web app designed to help students build and tr
 ---
 ## 📸 Screenshot
 
-![EduHabit Screenshot](screenshot 1.png)
+![EduHabit Screenshot](https://github.com/CKChiranjivi/EduHabit-Study-Habit-Tracker/blob/main/Screenshot%201.png)
 
 > Screenshot of the EduHabit interface with a habit list and progress tracking.
 
