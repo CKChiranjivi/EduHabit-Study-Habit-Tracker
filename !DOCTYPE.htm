@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EduHabit - Study Habit Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>EduHabit 📘</h1>
+    <p>Track and build your study habits daily!</p>
+
+    <div class="habit-input">
+      <input type="text" id="habitInput" placeholder="Enter a new habit...">
+      <button onclick="addHabit()">Add Habit</button>
+    </div>
+
+    <ul id="habitList"></ul>
+
+    <button onclick="resetHabits()" class="reset-btn">Reset All</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
